@@ -4,10 +4,9 @@
 	<meta charset="UTF-8">
 	<title>Selectors :not and by attributes</title>
 	<style> 
-
-		div:first-child > a{
-			background-color: #E4F091;
-		}
+		 a[href="about"] {
+      			 background-color:  #B7569A; }
+		
 		a[href$=".html"]{
 			background-color: #085F63;
 		}
@@ -19,16 +18,14 @@
 		*[data-href] {
 			color:#F1C40F;
 		}
-     /*  a :parent {
-        background: red; }
-        */
-		
+    	
 		*[data-href~="highlight_me"]{
 			text-decoration: underline;
 				}
+		div:first-child > a{
+			background-color: #E4F091;
+		}
 
-
-		
 
 	</style>
 </head>
