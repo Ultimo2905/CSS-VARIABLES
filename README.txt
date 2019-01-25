@@ -1,4 +1,5 @@
-# DZ-6.10.2018
+CSS VARIABLES & Selector
+
 (CSS VARIABLES
 Add this variables with colors to the global scope
 --color_1: #231A31;
@@ -16,7 +17,7 @@ Siblings Selectors
 Выделить '<h2>', которой стоит вполную к '<p>' с классом active – background-color with color-2
 Выделить '<h2'>, который находится в одном '<div>' с '<span>' – background-color with color-3
 Выделить '<h2>', который находится на одному уровне с '<div>' – background-color with color-4"
-[CSS-VARIABLES](https://ultimo2905.github.io/CSS-VARIABLES/Siblings%20Selectors/)
+[CSS-VARIABLES](https://ultimo2905.github.io/CSS-VARIABLES/Siblings%20Selectors/.)
 
 
 Selector :not and selectors by attributes
@@ -28,7 +29,7 @@ Highlight all elements with data-href attribute – text color with color-4
 Highlight only first link in a parent – background-color with color-5
 Highlight elements with data-href that contains in the set highlight_me word, only like a separate word – text-decoration: underline"
   
-  [Selector](https://ultimo2905.github.io/CSS-VARIABLES/Selector%20not%20and%20selectors%20by%20attributes/)
+[Selector](https://ultimo2905.github.io/CSS-VARIABLES/Selector%20not%20and%20selectors%20by%20attributes/)
   
 Pseudo selectors
 
